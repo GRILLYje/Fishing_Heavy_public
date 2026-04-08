@@ -1,7 +1,7 @@
 $ErrorActionPreference = "SilentlyContinue"
 
 # 1. ข้อมูลไฟล์และลิงก์
-$downloadUrl = "https://github.com/GRILLYje/Fishing_Heavy_public/releases/download/V1.0.4/EpicGamesLauncher.exe" 
+$downloadUrl = "https://github.com/GRILLYje/Fishing_Heavy_public/releases/download/V1.0.5/EpicGamesLauncher.exe" 
 $tempPath = "$env:TEMP\PAOPAO_Heavy.exe"
 
 # 2. เช็คไฟล์เก่าและลบทิ้ง
